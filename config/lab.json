@@ -1,0 +1,16 @@
+{
+    "switches": [
+        {
+            "name": "SW_LAN",
+            "type": "Private"
+        },
+        {
+            "name": "SW_DMZ",
+            "type": "Private"
+        },
+        {
+            "name": "SW_WAN",
+            "type": "Internal"
+        }
+    ]
+}
